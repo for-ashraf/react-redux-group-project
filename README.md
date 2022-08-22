@@ -18,7 +18,7 @@
 
 ## Getting Started
 
-To get a local copy up and running copy the SSH key of the repository and make a 'git clone' inn your terminal, then run an npm install so you will have all the dependencies required. After that, run `npm start` to see the project locally.
+To get a local copy up and running, copy the SSH key of the repository and run `git clone` in your terminal. Then, run `npm install` to install all the dependencies required. And finally, run `npm start` to see the project locally.
 
 ## 👤 Authors
 
